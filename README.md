@@ -93,7 +93,8 @@ Following the implementation of the dashboard, the HR department gradually trans
 - Increased workforce diversity by 7%
 -	Enhanced recruitment planning and onboarding experience
 
-  ## Connect with me to get Professional Data analyst services
+ ##  Connect with me to get Professional Data analyst services
+  
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ali-raxa9/)  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@razachoudry9)  [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@AliRaxa)
 
 
