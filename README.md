@@ -55,7 +55,8 @@ The dashboard answers critical questions like:
 -	Are we paying fairly based on qualifications?
 -	What's our current attrition rate?
 
-  ![img_alt](https://github.com/AliRaza-9/HR-Dashboard/blob/228459878facafda7c3f489b843a71406729aa38/Main%20Page.png)
+ ![img_alt](https://raw.githubusercontent.com/AliRaza-9/HR-Dashboard/228459878facafda7c3f489b843a71406729aa38/Main%20Page.png)
+
 
 ### Headcount Growth: Are We Growing in the Right Direction?
 •	How many employees joined or left overtime?
