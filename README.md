@@ -85,6 +85,7 @@ To uncover recurring patterns and allow HR to create retention strategies that w
 To reduce the cost of turnover and promote a more stable, engaged workforce.
 
 ![Image](https://raw.githubusercontent.com/AliRaza-9/HR-Dashboard/c9a12c787da80755bfa93d473083ca2c3c120888/Attrition%20Page.png) 
+![img_alt](https://raw.githubusercontent.com/AliRaza-9/HR-Dashboard/228459878facafda7c3f489b843a71406729aa38/Main%20Page.png)
 
 ## Impact:
 Following the implementation of the dashboard, the HR department gradually transitioned into a more strategic and data-driven function. Decision-making has become faster, more informed, and aligned with organizational goals, leading to improved efficiency and better workforce planning.
@@ -92,6 +93,7 @@ Following the implementation of the dashboard, the HR department gradually trans
 - Improved pay equity through qualification-based analysis
 - Increased workforce diversity by 7%
 -	Enhanced recruitment planning and onboarding experience
+
 ## Impact:
 
  ##  Connect with me to get Professional Data analyst services
