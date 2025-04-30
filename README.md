@@ -55,6 +55,8 @@ The dashboard answers critical questions like:
 -	Are we paying fairly based on qualifications?
 -	What's our current attrition rate?
 
+  ![img_alt](https://github.com/AliRaza-9/HR-Dashboard/blob/228459878facafda7c3f489b843a71406729aa38/Main%20Page.png)
+
 ### Headcount Growth: Are We Growing in the Right Direction?
 •	How many employees joined or left overtime?
 •	Which months show spikes or drops in hiring
@@ -80,6 +82,8 @@ To uncover recurring patterns and allow HR to create retention strategies that w
 -	Improve onboarding and retention
 -	Forecast talent risks
 To reduce the cost of turnover and promote a more stable, engaged workforce.
+
+![img_alt](https://github.com/AliRaza-9/HR-Dashboard/blob/228459878facafda7c3f489b843a71406729aa38/Attrition%20Page.png)
  
 
 ## Impact:
@@ -88,5 +92,11 @@ Following the implementation of the dashboard, the HR department gradually trans
 - Improved pay equity through qualification-based analysis
 - Increased workforce diversity by 7%
 -	Enhanced recruitment planning and onboarding experience
+
+  ## Connect with me to get Professional Data analyst services
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ali-raxa9/)  [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/@razachoudry9)  [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@AliRaxa)
+
+
+
 
 
