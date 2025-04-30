@@ -83,7 +83,8 @@ To uncover recurring patterns and allow HR to create retention strategies that w
 -	Forecast talent risks
 To reduce the cost of turnover and promote a more stable, engaged workforce.
 
-![img_alt](https://github.com/AliRaza-9/HR-Dashboard/blob/main/Attrition%20Page.png)
+![Image](https://raw.githubusercontent.com/AliRaza-9/HR_Dashboard/main/Main Page.png)
+
  
 
 ## Impact:
